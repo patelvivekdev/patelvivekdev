@@ -12,9 +12,7 @@ I’m currently student at SVIT vasad.<br>
 
 - **Ai/ML**<br>
   ## Skills :computer:
-    ```Tensorflow```<br>
-    ```scikit-learn``` <br>
-    ```pandas``` <br>
+    ```Tensorflow scikit-learn pandas``` <br>
     <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509&hide=javascript,html,css,php)](https://github.com/Vivek2509/)<br>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=face-recognition)](https://github.com/Vivek2509/face-recognition)
