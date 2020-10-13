@@ -6,13 +6,13 @@ I’m currently student at SVIT vasad.<br>
 :hearts: Python<br>
 🤝 Let's get connected: 
       [[`Twitter`](https://www.twitter.com/Vivek2509_)
-      [` Linkedin`](https://www.linkedin.com/in/vivek2509/)      
+      [` Linkedin`](https://www.linkedin.com/in/vivek2509/)
       [` pinterest`](https://in.pinterest.com/Vivek2509_/)]
 
 ---
 
-**AI/ML**<br>
-## Skills :computer:
+## AI/ML <br>
+### Skills :computer:
 `Tensorflow`<br>
 `scikit-learn`<br>
 `openCV`<br>
