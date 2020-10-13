@@ -18,7 +18,8 @@ I’m currently student at SVIT vasad.<br>
 `openCV`<br>
     <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509&hide=javascript,html,css,php)](https://github.com/Vivek2509/)<br>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=face-recognition)](https://github.com/Vivek2509/face-recognition)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=Email_spam_detection)](https://github.com/Vivek2509/Email_spam_detection)
+  
+  <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=face-recognition)](https://github.com/Vivek2509/face-recognition)
+      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=Email_spam_detection)](https://github.com/Vivek2509/Email_spam_detection)-->
 
 ---
