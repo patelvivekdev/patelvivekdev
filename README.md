@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 Welcome to world 🌍 of ML 
+  > This is vivek2509, a web developer with ♥ in photography 📸. I am also a Ai/ML enthusiast as well.
 
-<!--
-**Vivek2509/Vivek2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🌱 I’m currently student at SVIT vasad.
+- :hearts: Python
+- 🤝 Let's get connected: 
+      [[`Twitter`](https://www.twitter.com/Vivek2509_)
+      [`linkedin`](https://www.linkedin.com/in/vivek2509/)]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ai/ML**<br>
+  ## Skills :computer:
+    ```Tensorflow```<br>
+    ```scikit-learn``` <br>
+    ```pandas``` <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509&hide=javascript,html,css,php)](https://github.com/Vivek2509/)<br>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=face-recognition)](https://github.com/Vivek2509/face-recognition)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=Email_spam_detection)](https://github.com/Vivek2509/Email_spam_detection)
+
+---
