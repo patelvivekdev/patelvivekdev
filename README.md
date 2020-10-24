@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to world 🌍 of ML 
-  > I am vivek patel, a web developer with ♥ in photography 📸. Also AI/ML enthusiast as well.
+  > I am vivek patel, A web developer ♥ in photography 📸. Also AI/ML enthusiasts as well.
 
 ## About me
 I’m currently student at SVIT vasad.<br>
