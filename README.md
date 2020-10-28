@@ -10,8 +10,11 @@ I’m currently student at SVIT vasad.<br>
       [` pinterest`](https://in.pinterest.com/Vivek2509_/)]
       
 📖 Blog:
-  [[`medium`](https://vivek2509.medium.com/)
-  [`  World_of_ML`](https://vivek2509.github.io/World_of_ML/)]
+  [
+  [` Vivek2509`](https://vivek2509.blogspot.com/)
+  [`  medium`](https://vivek2509.medium.com/)
+  [`  World_of_ML`](https://vivek2509.github.io/World_of_ML/)
+  [`  Dev`](https://dev.to/vivek2509)]
 
 ---
 
