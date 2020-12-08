@@ -30,3 +30,5 @@ I’m currently student at SVIT vasad.<br>
       [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=Email_spam_detection)](https://github.com/Vivek2509/Email_spam_detection)-->
 
 ---
+
+![](https://komarev.com/ghpvc/?username=Vivek2509&color=green)
