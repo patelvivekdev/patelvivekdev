@@ -31,4 +31,4 @@ I’m currently student at SVIT vasad.<br>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Vivek2509&color=green)
+![](https://komarev.com/ghpvc/?username=Vivek2509&color=blue)
