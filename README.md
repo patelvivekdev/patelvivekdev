@@ -41,4 +41,7 @@
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=face-recognition)](https://github.com/Vivek2509/face-recognition)
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=Email_spam_detection)](https://github.com/Vivek2509/Email_spam_detection)-->
 
-![](https://komarev.com/ghpvc/?username=Vivek2509&color=blue)
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Vivek2509/count.svg" />
+</p>
