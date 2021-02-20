@@ -36,11 +36,15 @@
 ---
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509)](https://github.com/Vivek2509/)<br>
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=face-recognition)](https://github.com/Vivek2509/face-recognition)
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vivek2509&repo=Email_spam_detection)](https://github.com/Vivek2509/Email_spam_detection)-->
-
+<details>
+  <summary><b>GitHub Stats:</b></summary><br/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek2509&count_private=true&show_icons=truehow_icons=true" /> 
+</details>
+<br>
+<details>
+  <summary><b>Top Languages</b></summary>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509"><br>
+</details>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Vivek2509/count.svg" />
