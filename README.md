@@ -38,12 +38,12 @@
 <br>
 <details>
   <summary><b>GitHub Stats:</b></summary><br/>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek2509&count_private=true&show_icons=truehow_icons=true" /> 
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek2509&count_private=true&&show_icons=true&theme=dark"/> 
 </details>
 <br>
 <details>
   <summary><b>Top Languages</b></summary>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509"><br>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509&layout=compact"><br>
 </details>
 <p align="center"> 
   Visitors count<br>
