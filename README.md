@@ -1,22 +1,27 @@
-### Hi there 👋 Welcome to world 🌍 of ML 
+### Hi there 👋 Welcome to world 🌍 of Machine Learning 
   > I am vivek patel.
   > Making the world a better place with the help of data and machines.
+
+---
 
 ## About me
 - I’m currently student at SVIT vasad.<br>
 - AI/ML enthusiasts.<br>
 - Web developer. <br>
-- Loves :camera: photography.<br>
+- :heart: Python.
+- :camera: Photography.<br>
 
 🤝 Let's get connected: 
       [[`Twitter`](https://www.twitter.com/Vivek2509_)
       [` Linkedin`](https://www.linkedin.com/in/vivek2509/)
-      [` pinterest`](https://in.pinterest.com/Vivek2509_/)]
-      
+      [` Pinterest`](https://in.pinterest.com/Vivek2509_/)]
+
+--- 
+
 📖 Blog:
   | Blog          | 
   | ------------- |
-  |[`  medium`](https://vivek2509.medium.com/)| 
+  |[`  Medium`](https://vivek2509.medium.com/)| 
   |[`  World_of_ML`](https://vivek2509.github.io/World_of_ML/)|
   |[`  Dev`](https://dev.to/vivek2509)|
   
@@ -25,12 +30,12 @@
 ## Skills :computer:
 
 
-| **AI/ML**     | **WEB**       | 
-| ------------- | ------------- |
-| `Python`      | `React`       |
-| `Tensorflow`  | `NodeJs`      |
-| `Scikit-learn`| `MongoDB`     |
-| `OpenCV`      | `Express`     |
+| **AI/ML**     | **WEB**       | **GUI**       |
+| ------------- | ------------- | ------------- |
+| `Python`      | `React`       | `Tkinter`     |
+| `Tensorflow`  | `Django`      | `PyQt`        |
+| `Scikit-learn`|               |               |
+| `OpenCV`      |               |               |
 
 
 ---
