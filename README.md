@@ -30,9 +30,9 @@
 ## Skills :computer:
 
 
-| **AI/ML**     | **WEB**       | **GUI**       |
-| ------------- | ------------- | ------------- |
-| `Python`      | `React`       | `Tkinter`     |
+| **AI/ML**     | **WEB**       | **GUI**       | **DevOps**    |
+| ------------- | ------------- | ------------- | ------------- |
+| `Python`      | `React`       | `Tkinter`     | `Docker`      |
 | `Tensorflow`  | `Django`      | `PyQt`        |
 | `Scikit-learn`|               |               |
 | `OpenCV`      |               |               |
