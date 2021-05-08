@@ -41,15 +41,11 @@
 ---
 
 <br>
-<details>
-  <summary><b>GitHub Stats:</b></summary><br/>
+<b>GitHub Stats:</b><br/>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek2509&count_private=true&&show_icons=true&theme=dark"/> 
-</details>
 <br>
-<details>
-  <summary><b>Top Languages</b></summary>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509&layout=compact"><br>
-</details>
+<b>Top Languages:</b><br/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek2509"><br>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Vivek2509/count.svg" />
