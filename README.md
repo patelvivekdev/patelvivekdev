@@ -11,18 +11,14 @@
 - :heart: Python.
 - :camera: Photography.<br>
 
-🤝 Let's get connected:<br>
-      [[`Twitter`](https://www.twitter.com/Vivek2509_)
-      [` Linkedin`](https://www.linkedin.com/in/vivek2509/)
-      [` Pinterest`](https://in.pinterest.com/Vivek2509_/)]
+🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/Vivek2509_) | [` Linkedin`](https://www.linkedin.com/in/vivek2509/) 
+| [` Pinterest`](https://in.pinterest.com/Vivek2509_/)]
 
 --- 
 
-📖 Blog: <br>
-  [[`  Medium`](https://vivek2509.medium.com/) | [`  World_of_ML`](https://vivek2509.github.io/World_of_ML/) | [`  Dev`](https://dev.to/vivek2509)]
+📖 Blog:  --> [[`Medium`](https://vivek2509.medium.com/) | [` World_of_ML`](https://vivek2509.github.io/World_of_ML/) | [`  Dev`](https://dev.to/vivek2509)]
   
 ---
-
 ## Skills :computer:
 
 
