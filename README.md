@@ -22,10 +22,10 @@
 ## Skills :computer:
 
 
-| **AI/ML**     | **WEB**       | **GUI**       | **DevOps**    |
-| ------------- | ------------- | ------------- | ------------- |
-| `Python`      | `React`       | `Tkinter`     | `Docker`      |
-| `Tensorflow`  | `Django`      | `PyQt`        |
+| **AI/ML**     | **WEB**       | **DevOps**    |
+| ------------- | ------------- | ------------- |
+| `Python`      | `React`       | `Docker`      |
+| `Tensorflow`  | `Django`      |               |
 | `Scikit-learn`|               |               |
 | `OpenCV`      |               |               |
 
