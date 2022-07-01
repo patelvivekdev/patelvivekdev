@@ -5,7 +5,7 @@
 ---
 
 ## About me
-- I’m currently student at SVIT vasad.<br>
+<!-- - I’m currently student at SVIT vasad.<br> -->
 - AI/ML enthusiasts.<br>
 - Web developer. <br>
 - :heart: Python.
