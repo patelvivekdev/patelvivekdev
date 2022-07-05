@@ -25,8 +25,8 @@
 | **AI/ML**     | **WEB**       | **DevOps**    |
 | ------------- | ------------- | ------------- |
 | `Python`      | `React`       | `Docker`      |
-| `Tensorflow`  | `Django`      |               |
-| `Scikit-learn`|               |               |
+| `Tensorflow`  | `Angular`     |               |
+| `Scikit-learn`| `Django`      |               |
 | `OpenCV`      |               |               |
 
 
