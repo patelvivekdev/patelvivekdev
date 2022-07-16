@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to world 🌍 of Machine Learning 
+### Hi there 👋 Welcome to world 🌍 of developer.
   > I am vivek patel.
   > Making the world a better place with the help of data and machines.
 
