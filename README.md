@@ -1,5 +1,6 @@
 ### Hi there 👋 Welcome to world 🌍 of developer.
   > I am vivek patel.
+  > I am a web developer who loves photography.
   > Making the world a better place with the help of data and machines.
 
 ---
