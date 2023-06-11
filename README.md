@@ -38,6 +38,6 @@
   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vivek-0206&count_private=true&&show_icons=true&theme=dark"/>
 </p>
 <b>Top Languages:</b><br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-0206&hide=Jupyter Notebook">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-0206&hide=jupyter%20notebook">
 <br>
 
