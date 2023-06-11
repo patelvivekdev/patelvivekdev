@@ -35,7 +35,7 @@
 
 <p align="center">
   <b>GitHub Stats:</b><br/>
-  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vivek2509&count_private=true&&show_icons=true&theme=dark"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vivek-0206&count_private=true&&show_icons=true&theme=dark"/>
 </p>
 <!--
 <b>Top Languages:</b><br/>
