@@ -22,12 +22,13 @@
 ## Skills :computer:
 
 
-| **AI/ML**     | **WEB**       | **DevOps**    |
-| ------------- | ------------- | ------------- |
-| `Python`      | `React`       | `Docker`      |
-| `Tensorflow`  | `Angular`     |               |
-| `Scikit-learn`| `Django`      |               |
-| `OpenCV`      |               |               |
+| **AI/ML**     | **WEB**       |**Database**    |
+| ------------- | ------------- | -------------- |
+| `Python`      | `React`       | `MongoDB`      |
+| `Tensorflow`  | `Angular`     | `postgresql`   |
+| `Scikit-learn`| `Django`      |                |
+| `OpenCV`      | `Node.js`     |                |
+|               | `Express`     |                |
 
 
 ---
