@@ -6,18 +6,17 @@
 ---
 
 ## About me
-<!-- - I’m currently student at SVIT vasad.<br> -->
+- 👨‍🎓 Conestoga, Kitchener.<br>
 - AI/ML enthusiasts.<br>
 - Web developer. <br>
 - :heart: Python.
 - :camera: Photography.<br>
 
-🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/Vivek2509_) | [` Linkedin`](https://www.linkedin.com/in/vivek2509/) 
-| [` Pinterest`](https://in.pinterest.com/Vivek2509_/)]
+🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/Vivek0206_) | [`Linkedin`](https://www.linkedin.com/in/vivekp0206/) ]
 
 --- 
 
-📖 Blog:  --> [[`Medium`](https://vivek2509.medium.com/) | [` World_of_ML`](https://vivek2509.github.io/World_of_ML/) | [`  Dev`](https://dev.to/vivek2509)]
+📖 Blog:  --> [[`Medium.com`](https://vivek2509.medium.com/) | [`World_of_ML`](https://vivek-0206.github.io/World_of_ML/) | [`Dev.to`](https://dev.to/vivek2509)]
   
 ---
 ## Skills :computer:
