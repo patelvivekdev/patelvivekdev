@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to world 🌍 of developer.
-  > I am vivek patel.
-  > I am a web developer who loves photography.
+  > I am Vivek Patel.
+  > I am a Full Stack Developer who loves photography.
   > Making the world a better place with the help of data and machines.
 
 ---
@@ -8,15 +8,15 @@
 ## About me
 - 👨‍🎓 Conestoga, Kitchener.<br>
 - AI/ML enthusiasts.<br>
-- Web developer. <br>
-- :heart: Python.
+- Full Stack developer. <br>
+- :heart: Python, React, NextKJs. <br/>
 - :camera: Photography.<br>
 
 🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/Vivek0206_) | [`Linkedin`](https://www.linkedin.com/in/vivekp0206/) ]
 
 --- 
 
-📖 Blog:  --> [[`Medium.com`](https://vivek2509.medium.com/) | [`World_of_ML`](https://vivek-0206.github.io/World_of_ML/) | [`Dev.to`](https://dev.to/vivek2509)]
+📖 Blog:  --> [[`patelvivek.dev`](https://patelvivek.dev/blog) | [`Medium.com`](https://patelvivekdotdev.medium.com/) | [`Dev.to`](https://dev.to/vivek-0206)]
   
 ---
 ## Skills :computer:
@@ -25,7 +25,7 @@
 | **AI/ML**     | **WEB**       |**Database**    |
 | ------------- | ------------- | -------------- |
 | `Python`      | `React`       | `MongoDB`      |
-| `Tensorflow`  | `Angular`     | `postgresql`   |
+| `Tensorflow`  | `Next Js`     | `postgresql`   |
 | `Scikit-learn`| `Django`      |                |
 | `OpenCV`      | `Node.js`     |                |
 |               | `Express`     |                |
