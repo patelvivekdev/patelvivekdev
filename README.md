@@ -9,14 +9,14 @@
 - 👨‍🎓 Conestoga, Kitchener.<br>
 - AI/ML enthusiasts.<br>
 - Full Stack developer. <br>
-- :heart: Python, React, NextKJs. <br/>
+- :heart: Python, React, NextJS. <br/>
 - :camera: Photography.<br>
 
-🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/Vivek0206_) | [`Linkedin`](https://www.linkedin.com/in/vivekp0206/) ]
+🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/patelvivekdev) | [`Linkedin`](https://www.linkedin.com/in/patelvivekdev/) ]
 
 --- 
 
-📖 Blog:  --> [[`patelvivek.dev`](https://patelvivek.dev/blog) | [`Medium.com`](https://patelvivekdotdev.medium.com/) | [`Dev.to`](https://dev.to/vivek-0206)]
+📖 Blog:  --> [[`patelvivek.dev`](https://patelvivek.dev/blog) | [`Medium.com`](https://patelvivekdotdev.medium.com/) | [`Dev.to`](https://dev.to/patelvivekdev)]
   
 ---
 ## Skills :computer:
@@ -35,9 +35,9 @@
 
 <p align="center">
   <b>GitHub Stats:</b><br/>
-  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vivek-0206&count_private=true&&show_icons=true&theme=dark"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patelvivekdev&count_private=true&&show_icons=true&theme=dark"/>
 </p>
 <b>Top Languages:</b><br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-0206&hide=jupyter%20notebook">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvivekdev&hide=jupyter%20notebook">
 <br>
 
