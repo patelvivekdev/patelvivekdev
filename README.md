@@ -22,13 +22,13 @@
 ## Skills :computer:
 
 
-| **AI/ML**     | **WEB**       |**Database**    |
-| ------------- | ------------- | -------------- |
-| `Python`      | `React`       | `MongoDB`      |
-| `Tensorflow`  | `Next Js`     | `postgresql`   |
-| `Scikit-learn`| `Django`      |                |
-| `OpenCV`      | `Node.js`     |                |
-|               | `Express`     |                |
+| **WEB**       |**Database**    | **AI/ML**     |
+| ------------- | -------------- | ------------- |
+| `React`       | `MongoDB`      | `Python`      |
+| `Next Js`     | `postgresql`   | `Tensorflow`  |
+| `Django`      | `Supabase`     | `Scikit-learn`|
+| `Node.js`     |                | `OpenCV`      |
+| `Express`     |                |               |
 
 
 ---
