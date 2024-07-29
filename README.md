@@ -25,9 +25,9 @@
 | **WEB**       |**Database**    | **AI/ML**     |
 | ------------- | -------------- | ------------- |
 | `React`       | `MongoDB`      | `Python`      |
-| `Next Js`     | `postgresql`   | `Tensorflow`  |
+| `Next Js`     | `PostgreSQL`   | `Tensorflow`  |
 | `Django`      | `Supabase`     | `Scikit-learn`|
-| `Node.js`     |                | `OpenCV`      |
+| `Node.js`     | `SQLite`       | `OpenCV`      |
 | `Express`     |                |               |
 
 
