@@ -1,22 +1,21 @@
 ### Hi there 👋 Welcome to world 🌍 of developer.
   > I am Vivek Patel.<br>
   > I am a Full Stack Developer who loves photography.<br>
-  > Making the world a better place with the help of data and machines.<br>
 
 ---
 
 ## About me
-- 👨‍🎓 Conestoga, Kitchener.<br>
+- Conestoga, Kitchener.<br>
 - AI/ML enthusiasts.<br>
 - Full Stack developer. <br>
 - :heart: Python, React, NextJS. <br/>
 - :camera: Photography.<br>
 
-🤝 Let's get connected: --> [[`Twitter`](https://www.twitter.com/patelvivekdev) | [`Linkedin`](https://www.linkedin.com/in/patelvivekdev/) ]
+Let's get connected: --> [[`Twitter`](https://www.twitter.com/patelvivekdev) | [`Linkedin`](https://www.linkedin.com/in/patelvivekdev/) ]
 
 --- 
 
-📖 Blog:  --> [[`patelvivek.dev`](https://patelvivek.dev/blog) | [`Medium.com`](https://patelvivekdotdev.medium.com/) | [`Dev.to`](https://dev.to/patelvivekdev)]
+Blog:  --> [`patelvivek.dev`](https://patelvivek.dev/blog)
   
 ---
 ## Skills :computer:
