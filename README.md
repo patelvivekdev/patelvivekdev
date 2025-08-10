@@ -35,7 +35,7 @@ Blog:  --> [`patelvivek.dev`](https://patelvivek.dev/blog)
 <p align="center">
   <b>GitHub Stats:</b><br/>
   <img alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patelvivekdev&theme=github">
-  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patelvivekdev&count_private=true&&show_icons=true&theme=dark"/>
+<!--   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patelvivekdev&count_private=true&&show_icons=true&theme=dark"/> -->
   <br/>
   <br/>
   <b>GitHub streak:</b><br/>
