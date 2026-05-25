@@ -1,50 +1,17 @@
-### Hi there 👋 Welcome to world 🌍 of developer.
-  > I am Vivek Patel.<br>
-  > I am a Full Stack Developer who loves photography.<br>
+### Hi, I am Vivek 👋
+
+I am a full-stack AI engineer who has grown into a backend and systems engineer. I am passionate about distributed systems, concurrency, task queues, message brokers, and the infrastructure that makes services reliable at scale.
+
+Currently, I am building the backend for [Quraite](https://quraite.ai/), an AI agent evaluation platform, designing the systems that run concurrent voice agent evaluations end to end. This means distributed task processing, async queues, workers, and pipelines.
+
+Earlier in my journey, I worked across the stack with a strong frontend focus, shipping admin tools, marketplaces, and SDKs in React, Next.js, and TypeScript. That foundation still helps me build features end-to-end, but I am now fully committed to the path of a full-stack engineer.
+
+When I am not coding, I write about what I learn and contribute to open source. I also love photography 📸.
 
 ---
 
-## About me
-- Conestoga, Kitchener.<br>
-- AI/ML enthusiasts.<br>
-- Full Stack developer. <br>
-- :heart: Python, React, NextJS. <br/>
-- :camera: Photography.<br>
+🛠️ &nbsp; Python · FastAPI · PostgreSQL · Redis · React · Next.js · TypeScript
 
-Let's get connected: --> [[`Twitter`](https://www.twitter.com/patelvivekdev) | [`Linkedin`](https://www.linkedin.com/in/patelvivekdev/) ]
+📚 &nbsp; Currently reading *Designing Data-Intensive Applications*
 
---- 
-
-Blog:  --> [`patelvivek.dev`](https://patelvivek.dev/blog)
-  
----
-## Skills :computer:
-
-
-| **WEB**       |**Database**    | **AI/ML**     |
-| ------------- | -------------- | ------------- |
-| `React`       | `MongoDB`      | `Python`      |
-| `Next Js`     | `PostgreSQL`   | `Tensorflow`  |
-| `Django`      | `Supabase`     | `Scikit-learn`|
-| `Node.js`     | `SQLite`       | `OpenCV`      |
-| `Express`     |                |               |
-
-
----
-
-<p align="center">
-  <b>GitHub Stats:</b><br/>
-  <img alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patelvivekdev&theme=github">
-<!--   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patelvivekdev&count_private=true&&show_icons=true&theme=dark"/> -->
-  <br/>
-  <br/>
-  <b>GitHub streak:</b><br/>
-  <img alt="Github streak" src="https://streak-stats.demolab.com/?user=patelvivekdev&theme=onedark"/>
-  <br/>
-  <br/>
-  <b>Top Languages:</b><br/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvivekdev&hide=jupyter%20notebook">
-  <br/>
-  <br/>
-</p>
-
+📝 &nbsp; [`patelvivek.dev/blog`](https://patelvivek.dev/blog)
